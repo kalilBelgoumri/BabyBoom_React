@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Background Home */
+
+#background__home {
+    background: url(./assets//background.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-height: 100vh;
+}
